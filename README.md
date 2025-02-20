@@ -17,3 +17,10 @@ Hello World Sample
 
 Practice using Github by creating a sample repository. Make sure you add a description to help others understand your project
 
+## How to Run Program
+
+## Files Used
+
+## Additional Documents
+
+## Versioning
