@@ -15,8 +15,7 @@ Hello World Sample
 
 ## Description
 
-Practice using Github by creating a sample repository. Make sure you add a description to help others understand your project
-
+Practice using GitHub by creating a sample repository. This project is designed to help users become familiar with fundamental GitHub operations, including creating repositories, adding files, making commits, and writing proper documentation. Providing a clear project description ensures that others can easily understand the purpose and scope of the repository.
 ## How to Run Program
 
 ## Files Used
